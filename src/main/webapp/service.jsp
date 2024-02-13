@@ -4,10 +4,10 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Click The Link</title>
+<title>Service Page</title>
 </head>
 <body>
-<h1>This is main page</h1>
-<a href="service.jsp">Service Page</a>
+<h1>This is services page</h1>
+<a href="demo.jsp">Demo Page</a>
 </body>
 </html>
